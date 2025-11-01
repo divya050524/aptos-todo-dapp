@@ -6,7 +6,12 @@ A decentralized todo list application built on the Aptos blockchain. Manage your
 
 <img width="1920" height="1020" alt="Screenshot 2025-11-01 065930" src="https://github.com/user-attachments/assets/bb420685-88c5-4466-bc7a-0d289e19d09b" />
 
+<img width="1920" height="1020" alt="Screenshot 2025-11-01 141642" src="https://github.com/user-attachments/assets/5d1f916d-0346-4714-aecc-0b611a4fef2b" />
 
+<img width="487" height="768" alt="Screenshot 2025-11-01 141734" src="https://github.com/user-attachments/assets/9497f120-c7f9-414e-b01d-cfc276d2d2f6" />
+
+## Contract Address
+0x703a7444c3a7dc43b8dce76feab7b3e74185e8637fe5dca4a0f3650d87f84667
 
 ## 🌟 Features
 
