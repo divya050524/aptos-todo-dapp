@@ -294,7 +294,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
 
-Project Link: [https://github.com/yourusername/aptos-todo-dapp](https://github.com/yourusername/aptos-todo-dapp)
+Project Link: [https://github.com/yourusername/aptos-todo-dapp](https://github.com/divya050524/aptos-todo-dapp)
 
 ---
 
@@ -318,4 +318,4 @@ Project Link: [https://github.com/yourusername/aptos-todo-dapp](https://github.c
 **Current Version:** 1.0.0  
 **Status:** ✅ Production Ready  
 **Network:** Aptos Devnet  
-**Last Updated:** November 2024
+**Last Updated:** November 2025
